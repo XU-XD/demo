@@ -1,6 +1,4 @@
-# demo
-练习习习习
-*No.1
-1.第一部分
+ go get google.golang.org/grpc
 
-·int x =0;
+ go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+ go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest  
